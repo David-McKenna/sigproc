@@ -41,7 +41,7 @@ char tempo_site(int telescope_id) /*includefile*/
     return('k'); /*KAT-7*/
     break;
   case 1916:
-    return('ie613');
+    return('il');
     break;
   default:
     return('?'); /*unknown*/
